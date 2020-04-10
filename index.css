@@ -1,0 +1,31 @@
+body {
+    font-family: 'Times New Roman', Times, serif !important;
+    font-size: 20px !important;
+    max-width: 40%;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+h1 {
+    font-weight: 550 !important;
+    text-indent: 1em;
+    text-align: left;
+    font-size: 20px !important;
+}
+
+h2 {
+    text-indent: 1em;
+    text-align: left;
+    font-size: 20px !important;
+}
+
+a {
+    padding-left: 1em;
+    text-decoration: none;
+    color: black !important;
+}
+
+p {
+    text-indent: 1em;
+    text-align: justify;
+}
